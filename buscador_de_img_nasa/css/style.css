@@ -1,3 +1,9 @@
 main {
-    min-height: calc(100vh - 160px);
-  }
+  min-height: calc(100vh - 160px);
+}
+
+.card {
+  max-height: 350px;
+  /* Adjust the maximum height as needed */
+  overflow-y: auto;
+}

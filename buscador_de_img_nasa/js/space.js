@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="col-sm">
             <img src=${imagen} alt="imagen" class='card-img-top embed-responsive-item' style='height: 12rem'>
                 <div class="card-body">
-                 <h4 class="card-titl">${titulo}</h4>
+                 <h4 class="card-title">${titulo}</h4>
                  <p class='card-text'>${description}</p>
                  <h4 class='card-text'>${date}</h4>
                 </div>
